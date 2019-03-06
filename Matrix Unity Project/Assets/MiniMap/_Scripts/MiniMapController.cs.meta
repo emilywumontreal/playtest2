@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fee82f5d308b5499783c1dd290c83534
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shapeColliderGO: {instanceID: 0}
+  - renderTex: {fileID: 8400000, guid: 18f9dca9a11ac4d19ac18c775e25dcc2, type: 2}
+  - mapMaterial: {instanceID: 0}
+  - iconPref: {instanceID: 0}
+  - mapCamera: {instanceID: 0}
+  - target: {instanceID: 0}
+  - miniMapMask: {instanceID: 0}
+  - miniMapBorder: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

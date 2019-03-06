@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5E5D612D-22CB-8A00-1523-C1FB118E4457}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/generateMatrix.cs" Line="80" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="26" Column="9" />
+      <File FileName="Assets/Scripts/GameManagerScript.cs" Line="9" Column="5" />
+      <File FileName="Assets/Scripts/Usable.cs" Line="29" Column="8" />
+      <File FileName="Assets/Scripts/UseTarget.cs" Line="13" Column="34" />
+      <File FileName="Assets/Scripts/keyopen_player.cs" Line="17" Column="54" />
+      <File FileName="Assets/Scripts/KeyOpen.cs" Line="1" Column="3" />
+      <File FileName="Assets/MiniMap/_Scripts/MiniMapController.cs" Line="1" Column="1" />
+      <File FileName="Assets/MiniMap/_Scripts/MapObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/MiniMap/_Scripts/MiniMapComponent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
